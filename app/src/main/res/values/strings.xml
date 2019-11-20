@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ExpertSys</string>
+
+    <string name="objects">Objects</string>
+    <string name="let_is_guess">Let\'s guess</string>
+
+    <string name="add_object">Add object</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="characteristics">Characteristics</string>
+    <string name="characteristics_input_hint">Enter a list of characteristics separated by commas</string>
+    <string name="name_warning">Can\'t create object because name is empty</string>
+    <string name="characteristics_warning">Can\'t create object because characteristics are empty</string>
+    <string name="already_exists_warning">Can\'t create object because such an object already exists</string>
+
+    <string name="guessing_welcome_message">Hey. Guess the object, press the start button, and I will try to guess it.</string>
+    <string name="start">Start</string>
+    <string name="question">Does it have %s?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="i_think_it_is">I think it\'s a…</string>
+    <string name="sorry">Sorry…</string>
+    <string name="unknown_object">I don\'t know what is it :(</string>
+    <string name="no_knowledge">I do not know any objects yet :(</string>
+</resources>
